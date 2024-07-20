@@ -1,0 +1,2 @@
+# mingw
+nvm
